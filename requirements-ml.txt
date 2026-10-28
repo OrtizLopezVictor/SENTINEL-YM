@@ -1,0 +1,2 @@
+# Opcional: alternativa apt recomendada en Ubuntu: sudo apt install python3-sklearn
+scikit-learn>=1.5,<2

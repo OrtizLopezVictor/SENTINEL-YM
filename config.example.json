@@ -1,0 +1,11 @@
+{
+  "interval_seconds": 45,
+  "alert_cooldown_seconds": 3600,
+  "allowed_new_ports": [],
+  "ssh_failed_login_threshold": 5,
+  "ollama": {
+    "enabled": false,
+    "model": "",
+    "timeout_seconds": 8
+  }
+}
